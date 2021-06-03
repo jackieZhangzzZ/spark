@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/SparkPro/pom.xml" />
+        <option value="$PROJECT_DIR$/sparksql/pom.xml" />
+        <option value="$PROJECT_DIR$/sparkSQL2/pom.xml" />
+        <option value="$PROJECT_DIR$/movieAnalysis/pom.xml" />
+        <option value="$PROJECT_DIR$/sparkStreaming/pom.xml" />
+        <option value="$PROJECT_DIR$/streamingProject/pom.xml" />
+        <option value="$PROJECT_DIR$/../shopping/shopping-parent/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

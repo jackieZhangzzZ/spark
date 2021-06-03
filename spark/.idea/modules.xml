@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SparkPro/SparkPro.iml" filepath="$PROJECT_DIR$/SparkPro/SparkPro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/movieAnalysis/movieAnalysis.iml" filepath="$PROJECT_DIR$/movieAnalysis/movieAnalysis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../shopping/shopping-parent/shopping-gateway/shopping-gateway.iml" filepath="$PROJECT_DIR$/../shopping/shopping-parent/shopping-gateway/shopping-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../shopping/shopping-parent/shopping-parent.iml" filepath="$PROJECT_DIR$/../shopping/shopping-parent/shopping-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../shopping/shopping-parent/shopping-service/shopping-service.iml" filepath="$PROJECT_DIR$/../shopping/shopping-parent/shopping-service/shopping-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../shopping/shopping-parent/shopping-service-api/shopping-service-api.iml" filepath="$PROJECT_DIR$/../shopping/shopping-parent/shopping-service-api/shopping-service-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../shopping/shopping-parent/shopping-web/shopping-web.iml" filepath="$PROJECT_DIR$/../shopping/shopping-parent/shopping-web/shopping-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/spark.iml" filepath="$PROJECT_DIR$/.idea/spark.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sparkSQL2/sparkSQL2.iml" filepath="$PROJECT_DIR$/sparkSQL2/sparkSQL2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sparkStreaming/sparkStreaming.iml" filepath="$PROJECT_DIR$/sparkStreaming/sparkStreaming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sparksql/sparksql.iml" filepath="$PROJECT_DIR$/sparksql/sparksql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/streamingProject/streaming74projects.iml" filepath="$PROJECT_DIR$/streamingProject/streaming74projects.iml" />
+    </modules>
+  </component>
+</project>

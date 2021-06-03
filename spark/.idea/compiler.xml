@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="sparkSQL2" />
+        <module name="sparksql" />
+        <module name="sparkStreaming" />
+        <module name="shopping-service-api" />
+        <module name="movieAnalysis" />
+        <module name="SparkPro" />
+        <module name="streaming74projects" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="movieAnalysis" target="1.8" />
+      <module name="shopping-gateway" target="1.8" />
+      <module name="shopping-parent" target="1.8" />
+      <module name="shopping-service" target="1.8" />
+      <module name="shopping-service-api" target="1.8" />
+      <module name="shopping-web" target="1.8" />
+      <module name="SparkPro" target="1.8" />
+      <module name="sparksql" target="1.8" />
+      <module name="sparkSQL2" target="1.8" />
+      <module name="sparkStreaming" target="1.8" />
+      <module name="streaming74projects" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="shopping-gateway" options="-parameters" />
+      <module name="shopping-service" options="-parameters" />
+      <module name="shopping-service-api" options="-parameters" />
+      <module name="shopping-web" options="-parameters" />
+    </option>
+  </component>
+</project>
